@@ -1,4 +1,4 @@
-# 🌟 Starlight
+# 🌟 Starlight FIre!
 
 Starlight is a minimalist and blazing fast task tracker designed to help you stay focused and organized. Built with React for the frontend and Django for the backend, it offers a beautiful interface and real-time updates to keep your productivity shining.
 
