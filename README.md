@@ -31,6 +31,6 @@ Starlight is a minimalist and blazing fast task tracker designed to help you sta
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/your-username/starlight.git
+git clone https://github.com/benwubing/starlight.git
 cd starlight
 ```
